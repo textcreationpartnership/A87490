@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of advice to His Excellency the Lord General Monck, tending to the peace and welfare of this nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87490</idno>
+            <idno type="STC">Wing J38</idno>
+            <idno type="STC">Thomason E1013_23</idno>
+            <idno type="STC">ESTC R202645</idno>
+            <idno type="EEBO-CITATION">99862863</idno>
+            <idno type="PROQUEST">99862863</idno>
+            <idno type="VID">168768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168768)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of advice to His Excellency the Lord General Monck, tending to the peace and welfare of this nation.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+                  <author>Jennings, Theodore.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[London],</name>
+                     <date>Printed in the year, 1659 [i.e. 1660]</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.J.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>T.J. = Theodore Jennings?.</note>
+                  <note>Annotation on Thomason copy: "Jan. 31."; "not more weekly news beinge prohibited as Scout Inteligencer &amp;c. more weekly news as Scouts Inteligen: &amp; as prohibited".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168768:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <p>A LETTER OF ADVICE TO HIS EXCELLENCY The LORD General Monck,
+  TENDING To the Peace and Welfare of this NATION.</p>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168768:2"/>
+            <!-- PDF PAGE 31 -->
+            <pb n="3" facs="tcp:168768:2"/>
+            <!-- PDF PAGE 31 -->
+            <opener>  
+               <salute>
+                  <hi>May it pleaſe your
+ Excellency,</hi>
+               </salute>
+            </opener>
+            <p>'TIs not out of any fear or diſtruſt of your good intentions
+  to the publique good, that I aſſume the confidence, to ex<g ref="char:EOLhyphen"/>cite you
+  thereunto, your own inclinations I hope, though wrap'd up in ambiguous
+  ex<g ref="char:EOLhyphen"/>preſſions, fixes on the ſame thing: I muſt ingeniouſly confeſs
+  my affection and zeal to your perſon, whom I infinitely eſteem, is the only
+  Motive of this Addreſs unto you<g ref="char:punc">▪</g>
+            </p>
+            <p>You cannot be inſenſible or ignorant, my <hi>Lord,</hi> how
+  our expectations have been wea<g ref="char:EOLhyphen"/>ried (by thoſe ambitious and
+  ſelf-intereſſed perſons, who have too long ſate at the Stern of
+  Government) with promiſes of an immu<g ref="char:EOLhyphen"/>nity of our Priviledges and Liberties,
+  and a firm and glorious eſtabliſhment of the Com<g ref="char:EOLhyphen"/>monwealth; and yet to our
+  Miſery, and anxiety of ſoule, We have been ſo far from enjoying the
+  Fruits thereof, that our Slavery and oppreſſions are become more
+  intolerable then the <hi>Egyptian</hi> bondage; the ſpecious and ſmooth
+  pretences of thoſe cunning So<g ref="char:EOLhyphen"/>phiſters, <pb n="4" facs="tcp:168768:3"/>
+               <!-- PDF PAGE 32 -->whereby
+  they have deluded many thouſand perſons, was nothing elſe but a vi<g ref="char:EOLhyphen"/>zard
+  to diſguiſe the cruelty of their wicked proceedings, their actions have
+  alwayes run counter to their Proteſtations; and that pre<g ref="char:EOLhyphen"/>tended Liberty,
+  which they ſo ſooth'd up and inflamed the vulgar withall, hath proved
+  nothing elſe but an imaginary <hi>Chymera.</hi>
+            </p>
+            <p>My <hi>Lord,</hi> It is now perſpicuous and evi<g ref="char:EOLhyphen"/>dent to all
+  the World, unleſſe to thoſe who are wilfully blind, that they never
+  intended the publique welfare, or any ſettlement in Church or State; but to
+  carry on their own ambitious deſignes and private ends; the Foundation
+  whereof, they have laid on the ruines of many Ancient and Honourable
+  Families.</p>
+            <p>My <hi>Lord,</hi> It is not my intention, nor do I think it
+  abſolutely neceſſary to rip up and lay before your eyes, all the
+  particular Grie<g ref="char:EOLhyphen"/>vances of this miſerable Nation, they are ſo many and ſo
+  prodigious, that I ſhould (ſee<g ref="char:EOLhyphen"/>mingly) render my ſelf guilty of notorious
+  falſity to dilute them; I will leave that therefore to thoſe, whoſe
+  ſufferings and un<g ref="char:EOLhyphen"/>ſupportable Oppreſſions, will cry loud in 
+  <pb n="5" facs="tcp:168768:3"/>
+               <!-- PDF PAGE 32 -->your ears, and penetrate your
+  ſoul, which I hope will be ſo prevalent with your good<g ref="char:EOLhyphen"/>neſſe and
+  clemency, that you will ſpeedily put a period to this tyrannical Power, and
+  convene a <hi>Free Parliament,</hi> unto whom all publique Grievances may be
+  freely and am<g ref="char:EOLhyphen"/>ply propounded and redreſſed.</p>
+            <p>My <hi>Lord,</hi> God hath given you that power now, whereof you
+  may make a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery good uſe, which
+  certainly if you neglect to doe, your own ruine will infallibly follow: the
+  Sword is now in your hand, it behoves you therefore ſpeedily to cut off the
+  head of that monſtrous beaſt, that hath violated both Church and State, and
+  rooted up both our Liberties and Priviledges, never think or imagine your
+  ſelf ſecurely ſeated in their favour, by the ſervices and obligations
+  they have received from you; let the Examples of others, be a caution to you
+  for that; and aſſure your ſelf, if you deſtroy not them, they will
+  ruine you; and your onely ſecurity depends upon their de<g ref="char:EOLhyphen"/>ſtruction; this
+  muſt be the firſt thing you are obliged to doe, in which you happily open a
+  way for the calling of a <hi>Free Parlia<g ref="char:EOLhyphen"/>ment:</hi> 
+               <pb n="6" facs="tcp:168768:4"/>
+               <!-- PDF PAGE 33 -->In
+  doing whereof, give me leave to mind your <hi>Lordſhip</hi> of two or three
+  Particu<g ref="char:EOLhyphen"/>lars of high concernment.</p>
+            <p>Firſt, Let there be an eſpecial care taken in the Elections,
+  that the perſons be pru<g ref="char:EOLhyphen"/>dential and honeſt, and of conſiderable
+  For<g ref="char:EOLhyphen"/>tunes.</p>
+            <p>Secondly, That they be unbiaſſed, and un-intereſs'd in the
+  late <hi>Kings, Queens, Bi<g ref="char:EOLhyphen"/>ſhops,</hi> or any other Lands, or
+  otherwiſe.</p>
+            <p>Laſtly, That they may freely Debate, freely Vote, without
+  ſearing the obſtructing or menacing of an Armie; this is the way to make it
+  a happie Parliament, and us a flou<g ref="char:EOLhyphen"/>riſhing People.</p>
+            <p>
+               <hi>My Lord,</hi> I have ſo high an opinion of your courage
+  &amp; heroical ſpirit, that I believe you dare attempt a more hazardous
+  enter<g ref="char:EOLhyphen"/>prize then this, for the diſ-enſlaving your Countrie; wherein I
+  muſt confeſſe I cannot apprehend you expoſe your ſelf to the leaſt
+  danger: ſeveral parts of the Nation have al<g ref="char:EOLhyphen"/>ready declared for a <hi>Free
+  Parliament,</hi> which if countenanced by ſo great a perſon as your Self,
+  no doubt but they wil venture <pb n="7" facs="tcp:168768:4"/>
+               <!-- PDF PAGE 33 -->their
+  Lives and Fortunes, for the effecting thereof; and more then this, you are
+  aſcer<g ref="char:EOLhyphen"/>tain'd of the Aſſiſtance and Conjunction of the powerful and
+  populous Citie of <hi>London,</hi> whoſe <hi>Declaration</hi> you have
+  alreadie ſeen, and whoſe <hi>Fidelity</hi> you need not doubt, and who are
+  reſolved never to own this Ar<g ref="char:EOLhyphen"/>bitrarie and tyrannical power.</p>
+            <p>I need not tell your <hi>Lordſhip,</hi> I ſuppoſe you are
+  alreadie ſenſible of it, how the eyes of all people are fixed on you; and
+  the great hopes they have alreadie conceived of your <hi>Lordſhips</hi> good
+  intentions, have chained their Affections to you: 'tis on you <hi>Sir</hi> they
+  look as their DELIVERER; and certainly 'tis in your power to make this a happy,
+  or continue it a miſerable Nation.</p>
+            <p>My <hi>Lord,</hi> Give me leave to tell you the Advantages will
+  accrue unto You, by the accompliſhment of ſo glorious a Work, as the
+  Eſtabliſhment of this Nation: that ſub<g ref="char:EOLhyphen"/>limitie of <hi>grandeur</hi> You
+  have raiſed your ſelf to by your <hi>Sword,</hi> You need never fear a
+  di<g ref="char:EOLhyphen"/>minution of, the juſt and lawful Power you Erect, will not only confirm
+  and ſettle <pb n="8" facs="tcp:168768:5"/>
+               <!-- PDF PAGE 34 -->You in it, and your
+  Poſterity after you, but gratifie You with the higheſt Reward You can
+  expect or imagine, as a Teſtimonie of their deep reſentment of Your
+  <hi>reall worth and merit:</hi> the <hi>Memory</hi> of Your Perſon will be
+  Reverenced by <hi>ſucceeding Ages,</hi> and Your <hi>Name</hi> and
+  <hi>Actions</hi> Recorded in the <hi>Annals</hi> of <hi>Fame,</hi> which
+  neither Time nor Malice will be ever able to obliterate.</p>
+            <p>Thus my <hi>Lord,</hi> I have briefly given You my ADVICE very
+  faithfully, without flattery or fraud; God Almighty will bleſs You in the
+  Management of it, 'tis the prayer of all good People, and of Me in particular,
+  who am</p>
+            <closer>  
+               <salute>My Lord</salute> 
+               <signed> Your Lordſhips moſt faithful Servant, <hi>T.
+ J.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
